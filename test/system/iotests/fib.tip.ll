@@ -26,7 +26,8 @@ body1:                                            ; preds = %header1
   br label %header1
 
 exit1:                                            ; preds = %header1
-  ret i64 %f2.0
+  %f2.0.lcssa = phi i64 [ %f2.0, %header1 ]
+  ret i64 %f2.0.lcssa
 }
 
 define i64 @_tip_main() {
