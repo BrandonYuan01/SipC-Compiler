@@ -1,0 +1,5 @@
+<map id="TipArray" name="TipArray">
+<area shape="rect" id="node1" title="A proper type representing an array." alt="" coords="5,155,83,181"/>
+<area shape="rect" id="node2" href="$classTipCons.html" title="Abstract base class for all proper types." alt="" coords="7,80,81,107"/>
+<area shape="rect" id="node3" href="$classTipType.html" title="Abstract base class of all types." alt="" coords="8,5,80,32"/>
+</map>

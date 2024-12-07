@@ -1,0 +1,5 @@
+<map id="TipBoolean" name="TipBoolean">
+<area shape="rect" id="node1" title="A proper type representing a boolean." alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node2" href="$classTipCons.html" title="Abstract base class for all proper types." alt="" coords="15,80,90,107"/>
+<area shape="rect" id="node3" href="$classTipType.html" title="Abstract base class of all types." alt="" coords="17,5,89,32"/>
+</map>
