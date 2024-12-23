@@ -1,0 +1,23 @@
+main(n) {
+    var a, b, c, d, i;
+    a = 0;
+    b = 0;
+    c = [n of true];
+    d = 1;
+
+
+    for (i : 0 .. n by 2) {
+        a = a + b;
+        b++; 
+    }
+
+    if (c[b]) {
+        d = func();
+    }
+
+    return a + b + #c + d;
+}
+
+func() {
+    return 10;
+}
